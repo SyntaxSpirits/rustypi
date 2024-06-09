@@ -1,7 +1,11 @@
 [package]
 name = "rustypi"
 version = "0.1.0"
+authors = ["Alex Kholodniak <alexandrkholodniak@gmail.com>"]
 edition = "2021"
+description = "A library for estimating π using Monte Carlo simulations"
+license = "MIT"
+repository = "https://github.com/SyntaxSpirits/rustypi"
 
 [dependencies]
 rand = "0.8"
